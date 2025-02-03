@@ -28,6 +28,9 @@ private:
     int windowWidth;
     int windowHeight;
     GLFWwindow* window;
+
+    float rotationAngle = 0.0f;
+    
 };
 
 #endif // VISUALIZATION_H
