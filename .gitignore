@@ -1,0 +1,5 @@
+# Ignore Visual Studio Code settings (if personal or workspace-specific)
+.vscode/
+
+# Ignore the compiled binary
+src/audio_visualizer
